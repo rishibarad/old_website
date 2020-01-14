@@ -3,8 +3,7 @@
 This is my personal homepage. Personal domain is https://rishibarad.github.io . This website uses Jekyll and sustain template.
 
 ## How to use it
-Run `bundle exec jekyll serve` inside the directory.
-Edit the site attributes in *_config.yml* and edit the various entries in *_includes/* and *_posts/*.
+Run `bundle exec jekyll serve` inside the directory
 
 ## Copyright & License
 
