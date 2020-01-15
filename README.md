@@ -1,4 +1,4 @@
-# rishibarad Homepage
+# Rishi Barad Homepage
 
 This is my personal homepage. 
 
