@@ -1,6 +1,10 @@
 # rishibarad Homepage
 
-This is my personal homepage. Personal domain is http://rishibarad.github.io . This website uses Jekyll and sustain template.
+This is my personal homepage. 
+
+Personal domain is http://rishibarad.github.io . 
+
+This website uses Jekyll and sustain template.
 
 ## How to use it
 Run `bundle exec jekyll serve` inside the directory
