@@ -1,2 +1,7 @@
+---
+layout: none
+---
+
 User-agent: *
-Disallow: /
+Disallow: # Allow all site to be crawled 
+Sitemap: {{ site.url }}/sitemap.xml
