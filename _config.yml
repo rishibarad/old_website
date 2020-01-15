@@ -17,8 +17,9 @@ safe: true
 
 # edit here to achieve your personal greatness
 url: http://rishibarad.github.io/
-baseurl: /
+baseurl: ''
 title: Rishi Barad
+tagline: 'Aspiring Software Engineer'
 author: Rishi Barad
 description: Rishi Barad's Personal Website
 avatar: profile.png
